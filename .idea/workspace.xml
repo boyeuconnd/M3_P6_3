@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9883fd1-7629-4d59-b9bb-79bc5ff7d2ec" name="Default Changelist" comment="" />
+    <list default="true" id="f9883fd1-7629-4d59-b9bb-79bc5ff7d2ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/chaps/chap_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaps/chap_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaps/chap_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaps/chap_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaps/chap_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaps/chap_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chaps/chap_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_7.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590549623413</updated>
       <workItem from="1590549625023" duration="7368000" />
+      <workItem from="1590559317431" duration="282000" />
     </task>
     <servers />
   </component>
