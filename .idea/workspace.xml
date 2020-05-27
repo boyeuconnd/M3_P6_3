@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9883fd1-7629-4d59-b9bb-79bc5ff7d2ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap_5.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap_7.html" beforeDir="false" afterPath="$PROJECT_DIR$/chaps/chap_7.html" afterDir="false" />
-    </list>
+    <list default="true" id="f9883fd1-7629-4d59-b9bb-79bc5ff7d2ec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +30,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\Module3\CSS_projects\P6_3\chaps" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590549623413</updated>
-      <workItem from="1590549625023" duration="7109000" />
+      <workItem from="1590549625023" duration="7368000" />
     </task>
     <servers />
   </component>
@@ -64,5 +60,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="534" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590557741599" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1590559314841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590559314841" />
+    <state x="577" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590559249788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1590559249788" />
   </component>
 </project>
